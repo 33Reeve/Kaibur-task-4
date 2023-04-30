@@ -18,7 +18,7 @@ export default function Home() {
     <div className='container'>
         <div className='py-4'>
         <table className="table table-bordered shadow table-hover">
-            <thead className="table-primary" >
+            <thead className="table-secondary" >
                  <tr>
       <th scope="col">ID</th>
       <th scope="col">Name</th>
